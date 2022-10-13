@@ -1,4 +1,4 @@
-# Satellite-Image-Classification_CNN
+# Satellite_Image_Classification_CNN
 
 I created a **satellite image classification with a CNN.**
 
