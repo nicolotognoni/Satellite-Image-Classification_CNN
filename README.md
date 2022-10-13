@@ -36,3 +36,4 @@ We divided the code in 'Chapters' and we tried to make every single one indipend
 ## Dataset
 
 As dataset I used the UC Merced Land Use Dataset composed by 21 classes, each of 256x256 pixels.
+To download the dataset go to the official website: http://weegee.vision.ucmerced.edu/datasets/landuse.html
