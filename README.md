@@ -25,10 +25,14 @@ This model reached an **accuracy of 82%**
 In the last part of the code I implemented **Transfer Learning** by using pre-trained InceptionV3 on ImageNet from Google and it reached an accuracy of 93% on the validation set.
 
 
-# How to run the notebook
+## How to run the notebook
 We pre-run the entire notebook and kept the results of the different models.
 
 However, if you want to run it you need to know a few things:
 
 We stored our data on Google Drive so in order to run the code you need to upload the Folder with the images in your Google Drive under the following path: drive/MyDrive/Colab Notebooks/UCMerced_LandUse
 We divided the code in 'Chapters' and we tried to make every single one indipendent from the rest of the code in order to be able to run them indipendently. In many of them we put a sub-chapter to load the right data to run the model.
+
+## Dataset
+
+As dataset I used the UC Merced Land Use Dataset composed by 21 classes, each of 256x256 pixels.
