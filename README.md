@@ -1,4 +1,5 @@
 # Satellite Image Classification with a CNN
+### Using a Convolutional Neural Network to classify satellite images into different categories.
 
 The code is entirely written in python using TensorFlow, I used Google Colab and stored the images in Google Drive
 
