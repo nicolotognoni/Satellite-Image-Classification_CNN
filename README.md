@@ -1,6 +1,4 @@
-# Satellite_Image_Classification_CNN
-
-I created a **satellite image classification with a CNN.**
+# Satellite Image Classification with a CNN
 
 The code is entirely written in python using TensorFlow, I used Google Colab and stored the images in Google Drive
 
